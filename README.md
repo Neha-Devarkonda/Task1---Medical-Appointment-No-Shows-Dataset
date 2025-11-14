@@ -1,5 +1,6 @@
 Summary of Task 1
 Data Cleaning Task (Medical Appointment No Shows Dataset)
+
 📌 Objective
 
 The goal of this task is to clean and prepare a raw dataset containing missing values, duplicates, inconsistent text formats, incorrect data types, and unstructured date fields. The dataset used for this task is Medical Appointment No Shows (Kaggle).
